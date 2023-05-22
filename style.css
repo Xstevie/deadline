@@ -1,0 +1,77 @@
+h1{
+    color: rgba(44, 4, 4, 0.747);
+    text-align: center;
+    background-color: rgb(217, 215, 250);
+}
+p{
+    font-family: verdana;
+    font-size: 20px;
+}
+body{
+    background-image: url(IMG_7003.JPG); 
+    background-repeat: repeat;
+    background-size: contain;
+    background-attachment: contain;
+    background-position: cover;
+}
+span{
+    color: rgb(255, 187, 0);
+}
+.main_content{
+    color: rgb(71, 3, 3);
+    padding: 30px 10px 30px 10px;
+    margin: 30px 10px 20px;
+    margin-top: 10px 20px;
+}
+h3{
+    padding: 10px 10px;
+    margin-top: 10px 20px;
+    color: blueviolet;
+}
+h4{
+    color: blue;
+}
+.submit{
+    font-size: 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: blue;
+    color: beige;
+    padding: 10px 15px;
+    margin: 5px 0;
+    border: none;
+    cursor: pointer;
+    width: 260px;
+    text-align: center;
+}
+h2{
+   color: blue;
+   font-size: x-large;
+}
+h5{
+
+    font-family: verdana;
+    font-size: 20px;
+    color: blue;  
+}
+form{
+    display: inline-block;
+    background-color: blueviolet;
+    padding: 10px 20px 45px;
+    opacity: 0.9;
+
+}
+.textarea{
+    margin: 5px;
+    height: 25px;
+    width: 200px;
+}
+.sign{
+    text-align: left;
+}
+a{
+    color: aquamarine;
+    text-decoration: none;
+}
+.bio{
+    padding: 1px;
+}
